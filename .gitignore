@@ -1,1 +1,4 @@
-
+/BooksWebApi/bin/*
+/BooksWebApi/obj/*
+/BooksWebApi/.idea
+.vscode
