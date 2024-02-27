@@ -1,4 +1,5 @@
 /BooksWebApi/bin/*
 /BooksWebApi/obj/*
 /BooksWebApi/.idea
+/BooksWebApi/appsettings.Development.json
 .vscode
